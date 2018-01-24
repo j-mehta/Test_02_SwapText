@@ -1,0 +1,5 @@
+C:\Users\j-mehta\Desktop\テスト用\KillProcessTest\SwapTextTab\bin\Debug\SwapTextTab.exe.config
+C:\Users\j-mehta\Desktop\テスト用\KillProcessTest\SwapTextTab\bin\Debug\SwapTextTab.exe
+C:\Users\j-mehta\Desktop\テスト用\KillProcessTest\SwapTextTab\bin\Debug\SwapTextTab.pdb
+C:\Users\j-mehta\Desktop\テスト用\KillProcessTest\SwapTextTab\obj\Debug\SwapTextTab.exe
+C:\Users\j-mehta\Desktop\テスト用\KillProcessTest\SwapTextTab\obj\Debug\SwapTextTab.pdb
