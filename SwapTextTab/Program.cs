@@ -45,7 +45,8 @@ namespace SwapTextTab
                     ResultData = ResultData + SplitByTab[1] + '\t' + SplitByTab[0] + splitChar;
 
                 //Console.Clear();
-                if(DateTime.Now.Second % 5 == 0)
+                //change to 7 seconds delay
+                if(DateTime.Now.Second % 7 == 0)
                 {
                     Console.WriteLine(intC);
                 }
