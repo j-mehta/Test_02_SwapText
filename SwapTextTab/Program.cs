@@ -32,7 +32,7 @@ namespace SwapTextTab
             {
                 splitChar = "\n";
             }
-
+            //TestModification Master Commit 1
 
             string[] SplitByLine = text.Split(new[] { "\r\n", "\r", "\n" }, StringSplitOptions.None);
 
