@@ -46,6 +46,7 @@ namespace SwapTextTab
 
                 //Console.Clear();
                 //change to 7 seconds delay
+                //Extend to 10 seconds delay
                 if(DateTime.Now.Second % 7 == 0)
                 {
                     Console.WriteLine(intC);
