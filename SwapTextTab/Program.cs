@@ -45,7 +45,11 @@ namespace SwapTextTab
                     ResultData = ResultData + SplitByTab[1] + '\t' + SplitByTab[0] + splitChar;
 
                 //Console.Clear();
-                Console.WriteLine(intC);
+                if(DateTime.Now.Second % 5 == 0)
+                {
+                    Console.WriteLine(intC);
+                }
+                
             }
 
             File.WriteAllText(@"C:\Users\j-mehta\Desktop\tabSwap\4_Res.txt", ResultData, Encoding.UTF8);
