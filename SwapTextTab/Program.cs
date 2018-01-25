@@ -46,7 +46,8 @@ namespace SwapTextTab
 
                 //Console.Clear();
                 //change to 7 seconds delay
-                //Extend to 10 seconds delay
+                //Extend to 10 seconds 
+                //Lets try open pull request
                 if(DateTime.Now.Second % 7 == 0)
                 {
                     Console.WriteLine(intC);
