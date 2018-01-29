@@ -46,7 +46,14 @@ namespace SwapTextTab
                     ResultData = ResultData + SplitByTab[1] + '\t' + SplitByTab[0] + splitChar;
 
                 //Console.Clear();
-                Console.WriteLine(intC);
+                //change to 7 seconds delay
+                //Extend to 10 seconds 
+                //Lets try open pull request
+                if(DateTime.Now.Second % 7 == 0)
+                {
+                    Console.WriteLine(intC);
+                }
+                
             }
 
             File.WriteAllText(@"C:\Users\j-mehta\Desktop\tabSwap\4_Res.txt", ResultData, Encoding.UTF8);

@@ -6,3 +6,6 @@ C:\Users\j-mehta\Desktop\テスト用\KillProcessTest\SwapTextTab\obj\Debug\Swap
 C:\GIT_REPO_SOURCETREE_ALL\Test_02_SwapText\SwapTextTab\bin\Debug\SwapTextTab.exe.config
 C:\GIT_REPO_SOURCETREE_ALL\Test_02_SwapText\SwapTextTab\obj\Debug\SwapTextTab.exe
 C:\GIT_REPO_SOURCETREE_ALL\Test_02_SwapText\SwapTextTab\obj\Debug\SwapTextTab.pdb
+C:\GIT_REPO_SOURCETREE_ALL\Test_02_SwapText\SwapTextTab\bin\Debug\SwapTextTab.exe
+C:\GIT_REPO_SOURCETREE_ALL\Test_02_SwapText\SwapTextTab\bin\Debug\SwapTextTab.pdb
+C:\GIT_REPO_SOURCETREE_ALL\Test_02_SwapText\SwapTextTab\obj\Debug\SwapTextTab.csprojResolveAssemblyReference.cache
